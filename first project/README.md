@@ -1,12 +1,28 @@
-# React + Vite
+# React + Vite Starter Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, performant React starter template built with Vite, featuring fast HMR, ESLint integration, and optional SWC compiler.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚡️ **Blazing Fast** - Vite-powered development with near-instant HMR
+- 🛠 **ESLint Integrated** - Pre-configured with sensible linting rules
+- 🔄 **Two Compiler Options**:
+  - Babel ([@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react))
+  - SWC ([@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)) for even faster builds
+- 📦 **Production Optimized** - Built-in code splitting and asset optimization
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+- Node.js 16.x or later
+- npm/yarn/pnpm
+
+### Installation
+1. Clone this repository
+   ```sh
+   git clone [your-repo-url]
+### Install dependencies
+npm install
+### Start development server
+npm run dev
+
