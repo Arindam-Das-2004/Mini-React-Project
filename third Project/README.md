@@ -2,7 +2,7 @@
 
 A fun and interactive dice game built with React, where players guess a number and roll the dice to earn points!
 
-![Demo Screenshot](./screenshot.png) *(Replace with your actual screenshot)*
+
 
 ## � Features
 
@@ -37,7 +37,7 @@ A fun and interactive dice game built with React, where players guess a number a
 git clone https://github.com/your-username/dice-game.git
 
 # Navigate to project
-cd dice-game
+cd third-Project
 
 # Install dependencies
 npm install
